@@ -1,3 +1,10 @@
+builds/
+obj/
+Temp/
+
+metadata/
+ShaderCache/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
